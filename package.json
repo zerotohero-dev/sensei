@@ -1,0 +1,30 @@
+{
+  "name": "sensei",
+  "version": "0.0.5",
+  "description": "A Minimal Node.JS Wrapper Around sensu-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cisco-cloud/sensei.git"
+  },
+  "keywords": [
+    "sensu",
+    "api",
+    "wrapper",
+    "node.js",
+    "sensu-api"
+  ],
+  "author": "Volkan Özçelik <me@volkan.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cisco-cloud/sensei/issues"
+  },
+  "homepage": "https://github.com/cisco-cloud/sensei",
+  "dependencies": {
+    "q": "^1.2.0",
+    "superagent": "^1.1.0"
+  }
+}
