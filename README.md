@@ -101,7 +101,7 @@ After we hit **version 1.0.0**, we’ll follow [Semantic Versioning Standards](h
 
 ### I’ve Found A Bug / I have an Idea!
 
-[Please file an issue](https://github.com/cisco-cloud/sensei/issues).
+[Please file an issue](https://github.com/v0lkan/sensei/issues).
 
 And also you might want to see **[CONTRIBUTING.md](CONTRIBUTING.md)**.
 

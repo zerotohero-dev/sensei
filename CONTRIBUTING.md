@@ -122,4 +122,4 @@ On, and if you find any of this document hard to figure out, [send an email](mai
 [forkrepo]: https://help.github.com/articles/fork-a-repo/
 [clone]: https://help.github.com/articles/fork-a-repo/#step-2-create-a-local-clone-of-your-fork
 [PR]: https://help.github.com/articles/using-pull-requests/
-[issues]: https://github.com/cisco-cloud/sensei/issues
+[issues]: https://github.com/v0lkan/sensei/issues
